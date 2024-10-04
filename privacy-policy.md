@@ -1,7 +1,7 @@
 ---
 title: PRIVACY POLICY
 ---
-
+<div>
 <style>
   [data-custom-class='body'], [data-custom-class='body'] * {
           background: transparent !important;
@@ -57,3 +57,4 @@ word-break: break-word !important;
     </style>
       </div>
       
+</div>
