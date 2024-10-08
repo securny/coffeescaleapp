@@ -36,37 +36,37 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Bluetooth Scales
+    description                           : Works with Futula Kitchen Scale 3, LFScale CK811 or CK811BLE.
     fontawesome_icon_name                 : magic
+
+  - title                                 : Timer
+    description                           : Proves timer (stopwatch) for your brewing.
+    fontawesome_icon_name                 : link
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Weight
+    description                           : Gets weight values in gramms from the scales via bluetooth up to 4 times per second.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Flowrate
+    description                           : Calculates flowrate (gramms per second) in real-time.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Brew Ratio
+    description                           : Gines you abality to save dose and calculates brew ratio (BR) in real-time during brewing.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Charts
+    description                           : Wneh you start the timer it draws total weight chart and flowrate chart.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Autostart
+    description                           : Provides abality to automatically start the timer with the first pour.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Brewing Profiles
+    description                           : Draws graphs of your brewing profiles for espresso, pour-overs and drip coffee.
     fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
 
   - title                                 : FontAwesome Support
     description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
