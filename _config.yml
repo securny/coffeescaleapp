@@ -38,39 +38,35 @@ features                                  :
 
   - title                                 : Bluetooth Scales
     description                           : Works with Futula Kitchen Scale 3, LFScale CK811 or CK811BLE.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : bluetooth
 
   - title                                 : Timer
     description                           : Proves timer (stopwatch) for your brewing.
-    fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : stopwatch
     
   - title                                 : Weight
     description                           : Gets weight values in gramms from the scales via bluetooth up to 4 times per second.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : dumbbell
 
   - title                                 : Flowrate
     description                           : Calculates flowrate (gramms per second) in real-time.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : glass-water-droplet
 
   - title                                 : Brew Ratio
-    description                           : Gines you abality to save dose and calculates brew ratio (BR) in real-time during brewing.
-    fontawesome_icon_name                 : sync
+    description                           : Gives you abality to save dose and calculates brew ratio (BR) in real-time during brewing.
+    fontawesome_icon_name                 : scale-balanced
 
   - title                                 : Charts
     description                           : Wneh you start the timer it draws total weight chart and flowrate chart.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : chart-line
   
   - title                                 : Autostart
     description                           : Provides abality to automatically start the timer with the first pour.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : play
 
   - title                                 : Brewing Profiles
     description                           : Draws graphs of your brewing profiles for espresso, pour-overs and drip coffee.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : clipboard
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
