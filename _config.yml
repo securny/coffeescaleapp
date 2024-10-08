@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : Bluetooth Scales
     description                           : Works with Futula Kitchen Scale 3, LFScale CK811 or CK811BLE.
-    fontawesome_icon_name                 : bluetooth
+    fontawesome_icon_name                 : tower-broadcast
 
   - title                                 : Timer
     description                           : Proves timer (stopwatch) for your brewing.
@@ -50,11 +50,11 @@ features                                  :
 
   - title                                 : Flowrate
     description                           : Calculates flowrate (gramms per second) in real-time.
-    fontawesome_icon_name                 : glass-water-droplet
+    fontawesome_icon_name                 : fill-drip
 
   - title                                 : Brew Ratio
     description                           : Gives you abality to save dose and calculates brew ratio (BR) in real-time during brewing.
-    fontawesome_icon_name                 : scale-balanced
+    fontawesome_icon_name                 : percent
 
   - title                                 : Charts
     description                           : Wneh you start the timer it draws total weight chart and flowrate chart.
