@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : Bluetooth Scales
     description                           : Works with Futula Kitchen Scale 3, LFScale CK811 or CK811BLE.
-    fontawesome_icon_name                 : tower-broadcast
+    fontawesome_icon_name                 : wifi
 
   - title                                 : Timer
     description                           : Proves timer (stopwatch) for your brewing.
