@@ -35,9 +35,9 @@ This Privacy Notice for Dmitry Berezkin ("**we**," "**us**," or "**our**"), de
 
 **How do you exercise your rights?** The easiest way to exercise your rights is by submitting a [data subject access request](https://app.termly.io/notify/b5601a3a-2b02-48b3-b850-97f0e85b6674), or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
-Want to learn more about what we do with any information we collect? [Review the Privacy Notice in full](https://coffeescaleapp.kofezavr.ru/#toc).
+Want to learn more about what we do with any information we collect? [Review the Privacy Notice in full](#toc).
 
-## TABLE OF CONTENTS
+## TABLE OF CONTENTS {#toc}
 
 ---
 
