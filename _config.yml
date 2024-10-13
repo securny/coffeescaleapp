@@ -68,6 +68,10 @@ features                                  :
     description                           : Draws graphs of your brewing profiles for espresso, pour-overs and drip coffee.
     fontawesome_icon_name                 : clipboard
 
+  - title                                 : Android Version
+    description                           : Has similar application for Android devices. Available [here](https://github.com/wdrs/FutulaCoffeeScale/releases).
+    fontawesome_icon_name                 : android
+
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
