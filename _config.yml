@@ -69,8 +69,8 @@ features                                  :
     fontawesome_icon_name                 : clipboard
 
   - title                                 : Android Version
-    description                           : Has a similar application for Android devices. Available <a hfre="https://github.com/wdrs/FutulaCoffeeScale/releases">here</a>.
-    fontawesome_icon_name                 : android
+    description                           : Has a similar application for Android devices. Available <a href="https://github.com/wdrs/FutulaCoffeeScale/releases">here</a>.
+    fontawesome_icon_name                 : robot
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
